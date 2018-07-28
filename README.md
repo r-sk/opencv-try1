@@ -1,3 +1,6 @@
-#This is opencv
+#Learning OpenCV
 
-hohoho
+Starting to learn opencv from basics.
+Provided that you have already installed opencv in your system.
+
+
