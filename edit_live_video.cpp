@@ -11,7 +11,7 @@ int kernel_size = 0;
 int max_kernel_size = 20;
 
 cv::Mat vsrc,src,dest;
-cv::VideoCapture vid(1);
+cv::VideoCapture vid(0);
 
 int fps = 20;
 
